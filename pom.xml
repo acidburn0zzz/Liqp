@@ -45,7 +45,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <antlr.version>3.5.1</antlr.version>
-    <jackson.version>2.2.3</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <jsoup.version>1.7.2</jsoup.version>
     <junit.version>4.6</junit.version>
 
